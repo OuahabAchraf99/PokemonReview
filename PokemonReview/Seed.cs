@@ -32,7 +32,7 @@ namespace PokemonReview
                                     Reviewer = new Reviewer(){ FirstName = "Teddy", LastName = "Smith" } },
                                     new Review { Title="Pikachu", Text = "Pickachu is the best a killing rocks", Rating = 5,
                                     Reviewer = new Reviewer(){ FirstName = "Taylor", LastName = "Jones" } },
-                                    new Review { Title="Pikachu",Text = "Pickchu, pickachu, pikachu", Rating = 1,
+                                    new Review { Title="Pikachu",Text = "Pickchu, pickachu, pikachu", Rating = 4,
                                     Reviewer = new Reviewer(){ FirstName = "Jessica", LastName = "McGregor" } },
                                 }
                         },
@@ -63,7 +63,7 @@ namespace PokemonReview
                                 Reviewer = new Reviewer(){ FirstName = "Teddy", LastName = "Smith" } },
                                 new Review { Title= "Squirtle",Text = "Squirtle is the best a killing rocks", Rating = 5,
                                 Reviewer = new Reviewer(){ FirstName = "Taylor", LastName = "Jones" } },
-                                new Review { Title= "Squirtle", Text = "squirtle, squirtle, squirtle", Rating = 1,
+                                new Review { Title= "Squirtle", Text = "squirtle, squirtle, squirtle", Rating = 3,
                                 Reviewer = new Reviewer(){ FirstName = "Jessica", LastName = "McGregor" } },
                             }
                         },
@@ -94,7 +94,7 @@ namespace PokemonReview
                                 Reviewer = new Reviewer(){ FirstName = "Teddy", LastName = "Smith" } },
                                 new Review { Title="Veasaur",Text = "Venasuar is the best a killing rocks", Rating = 5,
                                 Reviewer = new Reviewer(){ FirstName = "Taylor", LastName = "Jones" } },
-                                new Review { Title="Veasaur",Text = "Venasuar, Venasuar, Venasuar", Rating = 1,
+                                new Review { Title="Veasaur",Text = "Venasuar, Venasuar, Venasuar", Rating = 2,
                                 Reviewer = new Reviewer(){ FirstName = "Jessica", LastName = "McGregor" } },
                             }
                         },

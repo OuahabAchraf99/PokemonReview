@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QgRiFPo8mRh3OfDHDVBYjjCGmokiYlmIS26sXRQK7QqjuUgkqPsjH2Lt6LtPgmQOJVqUMzCRC1oSMkAhwUFG1Q==",
+  "dgSpecHash": "s776/7b1MxDPDUpNqF1UFA+xJAVVWlyT67huLcFZIQAMrK+0nCIdc3wGUKCifjesITGtCD7xPPd4HfFxW4BYGg==",
   "success": true,
   "projectFilePath": "C:\\Users\\LATITUDE 7490\\Documents\\Achraf\\ASP.NET Projects\\Code\\PokemonReview\\PokemonReview\\PokemonReview.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LATITUDE 7490\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\LATITUDE 7490\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\LATITUDE 7490\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\LATITUDE 7490\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\LATITUDE 7490\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\LATITUDE 7490\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
     "C:\\Users\\LATITUDE 7490\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.10\\microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",

@@ -26,12 +26,12 @@ namespace PokemonReview.Repository
             return _context.Pokemons.Where(p => p.Name == pokeName).FirstOrDefault();
         }
 
-        public int GetPokemonRating(int pokeId)
+        public decimal GetPokemonRating(int pokeId)
         {
             var reviews= _context.Reviews.Where(p => p.Pokemon.Id==pokeId);
             if (reviews.Count()<=0)
                     return 0;
-            return (int)reviews.Average(p=>p.Rating);
+            return (decimal)reviews.Average(p=>p.Rating);
         }
 
         public bool PokemonExists(int pokeId)
